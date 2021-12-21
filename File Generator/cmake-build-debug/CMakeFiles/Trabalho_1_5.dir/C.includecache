@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Documentos/PPP/Trabalho 1.5/funcoes.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+math.h
+-
+funcoes.h
+D:/Documentos/PPP/Trabalho 1.5/funcoes.h
+
+D:/Documentos/PPP/Trabalho 1.5/funcoes.h
+

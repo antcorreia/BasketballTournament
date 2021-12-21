@@ -1,0 +1,3 @@
+D:/Documentos/PPP/Trabalho Ler Ficheiros Binarios/cmake-build-debug/CMakeFiles/Trabalho_Ler_Ficheiros_Binarios.dir
+D:/Documentos/PPP/Trabalho Ler Ficheiros Binarios/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentos/PPP/Trabalho Ler Ficheiros Binarios/cmake-build-debug/CMakeFiles/rebuild_cache.dir

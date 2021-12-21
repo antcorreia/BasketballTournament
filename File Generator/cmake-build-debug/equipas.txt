@@ -1,0 +1,105 @@
+Sporting#Benfica
+Sporting#FC Porto
+Sporting#UD Oliveirense
+Sporting#V. Guimaraes
+Sporting#Galitos
+Sporting#CAB Madeira
+Sporting#Esgueira
+Sporting#Lusitania
+Sporting#Ovarense
+Sporting#Barreirense
+Sporting#Illiabum
+Sporting#Maia BC
+Sporting#Terceira Basket
+Sporting#Academica
+Benfica#FC Porto
+Benfica#UD Oliveirense
+Benfica#V. Guimaraes
+Benfica#Galitos
+Benfica#CAB Madeira
+Benfica#Esgueira
+Benfica#Lusitania
+Benfica#Ovarense
+Benfica#Barreirense
+Benfica#Illiabum
+Benfica#Maia BC
+Benfica#Terceira Basket
+Benfica#Academica
+FC Porto#UD Oliveirense
+FC Porto#V. Guimaraes
+FC Porto#Galitos
+FC Porto#CAB Madeira
+FC Porto#Esgueira
+FC Porto#Lusitania
+FC Porto#Ovarense
+FC Porto#Barreirense
+FC Porto#Illiabum
+FC Porto#Maia BC
+FC Porto#Terceira Basket
+FC Porto#Academica
+UD Oliveirense#V. Guimaraes
+UD Oliveirense#Galitos
+UD Oliveirense#CAB Madeira
+UD Oliveirense#Esgueira
+UD Oliveirense#Lusitania
+UD Oliveirense#Ovarense
+UD Oliveirense#Barreirense
+UD Oliveirense#Illiabum
+UD Oliveirense#Maia BC
+UD Oliveirense#Terceira Basket
+UD Oliveirense#Academica
+V. Guimaraes#Galitos
+V. Guimaraes#CAB Madeira
+V. Guimaraes#Esgueira
+V. Guimaraes#Lusitania
+V. Guimaraes#Ovarense
+V. Guimaraes#Barreirense
+V. Guimaraes#Illiabum
+V. Guimaraes#Maia BC
+V. Guimaraes#Terceira Basket
+V. Guimaraes#Academica
+Galitos#CAB Madeira
+Galitos#Esgueira
+Galitos#Lusitania
+Galitos#Ovarense
+Galitos#Barreirense
+Galitos#Illiabum
+Galitos#Maia BC
+Galitos#Terceira Basket
+Galitos#Academica
+CAB Madeira#Esgueira
+CAB Madeira#Lusitania
+CAB Madeira#Ovarense
+CAB Madeira#Barreirense
+CAB Madeira#Illiabum
+CAB Madeira#Maia BC
+CAB Madeira#Terceira Basket
+CAB Madeira#Academica
+Esgueira#Lusitania
+Esgueira#Ovarense
+Esgueira#Barreirense
+Esgueira#Illiabum
+Esgueira#Maia BC
+Esgueira#Terceira Basket
+Esgueira#Academica
+Lusitania#Ovarense
+Lusitania#Barreirense
+Lusitania#Illiabum
+Lusitania#Maia BC
+Lusitania#Terceira Basket
+Lusitania#Academica
+Ovarense#Barreirense
+Ovarense#Illiabum
+Ovarense#Maia BC
+Ovarense#Terceira Basket
+Ovarense#Academica
+Barreirense#Illiabum
+Barreirense#Maia BC
+Barreirense#Terceira Basket
+Barreirense#Academica
+Illiabum#Maia BC
+Illiabum#Terceira Basket
+Illiabum#Academica
+Maia BC#Terceira Basket
+Maia BC#Academica
+Terceira Basket#Academica
